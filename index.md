@@ -1,5 +1,0 @@
-# Heading
-
-Paragraph
-
-# Testing Markdown
